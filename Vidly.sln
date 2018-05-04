@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidly", "Vidly\Vidly.csproj", "{919AED6B-56C2-4308-BF58-714E1BAE8A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Testing|Any CPU = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{919AED6B-56C2-4308-BF58-714E1BAE8A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919AED6B-56C2-4308-BF58-714E1BAE8A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919AED6B-56C2-4308-BF58-714E1BAE8A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919AED6B-56C2-4308-BF58-714E1BAE8A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919AED6B-56C2-4308-BF58-714E1BAE8A61}.Testing|Any CPU.ActiveCfg = Testing|Any CPU
+		{919AED6B-56C2-4308-BF58-714E1BAE8A61}.Testing|Any CPU.Build.0 = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ccuenca-cmi.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Vidly\\Vidly.csproj
+		SccProjectName1 = Vidly
+		SccLocalPath1 = Vidly
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+/packages
+/Vidly/bin
+/Vidly/obj
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
